@@ -4,7 +4,7 @@
 
 https://luizgustavonaves.github.io/SiteAlura-FrontEnd/
 
-Site voltado para propaganda da plataforma Alura onde foi possível colocar em prática novos conhecimentos e técnicas do desenvolvimento Front End em Html e Css. 
+Site de propaganda da plataforma Alura onde foi possível colocar em prática novos conhecimentos e técnicas do desenvolvimento Front End em Html e Css. 
 
 ## Layout 
 ![Alt text](img/foto1.PNG)
